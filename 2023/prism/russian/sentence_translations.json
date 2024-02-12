@@ -56,7 +56,7 @@
  {
   "input": "Still, setting that aside, it's cool that it's in pop culture at all, and any self-respecting physics enthusiast should know how it works, but the thing I realized is that my understanding hit a wall pretty quickly if pressed.",
   "model": "nmt",
-  "translatedText": "Тем не менее, если оставить это в стороне, то круто, что такое вообще есть в поп-культуре, и любой уважающий себя энтузиаст физики должен знать, как это работает, но я понял, что мое понимание довольно быстро упирается в стену, если на него надавить.",
+  "translatedText": "Тем не менее, если оставить это в стороне, то круто, что такое вообще есть в поп-культуре, и любой уважающий себя энтузиаст физики должен знать, как это работает, но я осознал, что мое понимание довольно быстро упирается в стену, если на него надавить.",
   "time_range": [
    41.06,
    52.9
@@ -110,7 +110,7 @@
  {
   "input": "We'll get back to the actual reason for bending in a bit, but at this point the high school physics students typically learn a law known as Snell's law which specifies exactly how much things bend.",
   "model": "nmt",
-  "translatedText": "Мы вернемся к истинной причине изгиба немного позже, но на этом этапе студенты-физики старших классов обычно изучают закон, известный как закон Снелла, который точно определяет, насколько сильно предметы изгибаются.",
+  "translatedText": "Мы вернемся к истинной причине изгиба немного позже, но на этом этапе студенты-физики старших классов обычно изучают закон, известный как закон Снелла, который точно определяет степень изгиба.",
   "time_range": [
    124.88,
    134.74
@@ -119,7 +119,7 @@
  {
   "input": "If you draw a line perpendicular to the boundary between the glass and water, and consider the angle between that perpendicular line and the beam of light, Snell's law tells us that the sine of this angle divided by the speed of the light is always a constant, so the slower the light the lower that angle will be, and that lets you calculate how much things refract.",
   "model": "nmt",
-  "translatedText": "Если вы проведете линию, перпендикулярную границе между стеклом и водой, и рассмотрите угол между этой перпендикулярной линией и лучом света, закон Снелла говорит нам, что синус этого угла, разделенный на скорость света, всегда будет постоянной величиной. , поэтому чем медленнее свет, тем меньше будет этот угол, и это позволяет вам рассчитать, насколько сильно преломляются предметы.",
+  "translatedText": "Если вы проведете линию, перпендикулярную границе между стеклом и водой, и рассмотрите угол между этой перпендикулярной линией и лучом света, закон Снелла говорит нам, что синус этого угла, разделенный на скорость света, всегда будет постоянной величиной, поэтому чем медленнее свет, тем меньше будет этот угол, и это позволяет рассчитать силу преломления.",
   "time_range": [
    135.26,
    155.32
@@ -128,7 +128,7 @@
  {
   "input": "What's going on with a prism, then, is that the specific amount that light slows down depends a little bit on its frequency.",
   "model": "nmt",
-  "translatedText": "Что происходит с призмой, так это то, что конкретная величина замедления света немного зависит от ее частоты.",
+  "translatedText": "Что происходит с призмой, так это то, что конкретная величина замедления света немного зависит от её частоты.",
   "time_range": [
    156.24,
    163.14
@@ -146,7 +146,7 @@
  {
   "input": "Most of the light you see is not a clean pure sine wave, in particular the white light coming from the sun is not a clean sine wave, it's something much messier, but it can be expressed as a sum of a bunch of clean sine waves, each one corresponding to a pure spectral color.",
   "model": "nmt",
-  "translatedText": "Большая часть света, который вы видите, не является чистой синусоидальной волной, в частности, белый свет, исходящий от Солнца, не является чистой синусоидальной волной, это нечто гораздо более запутанное, но его можно выразить как сумму совокупности чистых синусоидальных волн. , каждый из которых соответствует чистому спектральному цвету.",
+  "translatedText": "Бо́льшая часть света, который вы видите, не является чистой синусоидой, в частности, белый свет, исходящий от Солнца, не является чистой синусоидой, это нечто гораздо более запутанное, но его можно выразить как сумму совокупности чистых синусоид, каждая из которых соответствует чистому спектральному цвету.",
   "time_range": [
    173.1,
    187.7
@@ -155,7 +155,7 @@
  {
   "input": "So when you shine white light into a prism like this, all those different components get refracted by slightly different amounts, causing this iconic separation of the pure rainbow colors.",
   "model": "nmt",
-  "translatedText": "Поэтому, когда вы направляете белый свет на такую призму, все эти различные компоненты преломляются в несколько разной степени, вызывая это знаковое разделение чистых цветов радуги.",
+  "translatedText": "Поэтому, когда вы направляете белый свет на такую призму, все эти различные компоненты преломляются в несколько разной степени, вызывая это знаменитое разделение чистых цветов радуги.",
   "time_range": [
    188.28,
    197.92
@@ -164,7 +164,7 @@
  {
   "input": "So that is the standard explanation, and it's not wrong per se, it's just that all of the key components are handed down from on high.",
   "model": "nmt",
-  "translatedText": "Это стандартное объяснение, и само по себе оно не является неправильным, просто все ключевые компоненты передаются сверху.",
+  "translatedText": "Это стандартное объяснение, и само по себе оно не является неправильным, просто все ключевые компоненты преподносятся на блюдечке.",
   "time_range": [
    198.62,
    206.06
@@ -191,7 +191,7 @@
  {
   "input": "And even if you understand that, why would the amount that it slows down have anything to do with the color of the light?",
   "model": "nmt",
-  "translatedText": "И даже если вы это понимаете, почему величина замедления имеет какое-либо отношение к цвету света?",
+  "translatedText": "И даже если понять это, почему величина замедления имеет какое-либо отношение к цвету света?",
   "time_range": [
    211.74,
    216.98
@@ -209,7 +209,7 @@
  {
   "input": "If you have a sufficiently high standard for explanations, you want both of these facts to feel discovered, rather than feeling like they were handed down.",
   "model": "nmt",
-  "translatedText": "Если у вас достаточно высокий стандарт объяснений, вы хотите, чтобы оба этих факта казались открытыми, а не ощущением, будто они были переданы по наследству.",
+  "translatedText": "Если у вас достаточно высокий стандарт объяснений, вы хотите, чтобы оба этих факта казались открытыми, а не ощущать, будто они были переданы по наследству.",
   "time_range": [
    219.67999999999998,
    227.32
